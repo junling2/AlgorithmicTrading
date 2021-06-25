@@ -6,4 +6,4 @@
  
  Sample Output:
  
- ![Dataframe](AlgorithmicTrading/dataframe.png)
+ ![Dataframe](dataframe.PNG)
