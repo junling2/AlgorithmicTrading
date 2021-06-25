@@ -5,4 +5,5 @@
  Stock data is gathered from IEX Cloud API.
  
  Sample Output:
- ![Results](dataframe.png)
+ 
+ ![Dataframe](dataframe.png)
